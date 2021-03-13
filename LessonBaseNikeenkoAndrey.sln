@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dz2_3", "dz2_3\dz2_3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dz2_4", "dz2_4\dz2_4.csproj", "{2DD22416-2B58-43AB-BA68-A8B5EA62B92E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz2_7", "dz2_7\dz2_7.csproj", "{7850C062-E218-4A19-9FFC-9AB968D929AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dz2_7", "dz2_7\dz2_7.csproj", "{7850C062-E218-4A19-9FFC-9AB968D929AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 3", "Lesson 3", "{17EF3448-7CB7-4033-AD8D-CAD17FFC78D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
